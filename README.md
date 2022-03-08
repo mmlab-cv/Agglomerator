@@ -1,5 +1,5 @@
 # Agglomerator 🧠🗜
-Official code for "Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks" ([N. Garau](https://scholar.google.it/citations?user=r8BzAfcAAAAJ&hl=en), [N. Bisagno](https://scholar.google.it/citations?user=ZpDDp2AAAAAJ&hl=en), [Z. Sambugaro](https://scholar.google.it/citations?user=a4CmqMYAAAAJ&hl=en), [N. Conci](https://scholar.google.it/citations?user=mR1GK28AAAAJ&hl=en), CVPR2022) \[[pdf](https://arxiv.org/abs/2203.03282)\]
+Official code for "Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks" ([N. Garau](https://scholar.google.it/citations?user=r8BzAfcAAAAJ&hl=en), [N. Bisagno](https://scholar.google.it/citations?user=ZpDDp2AAAAAJ&hl=en), [Z. Sambugaro](https://scholar.google.it/citations?user=a4CmqMYAAAAJ&hl=en), [N. Conci](https://scholar.google.it/citations?user=mR1GK28AAAAJ&hl=en) (Accepted for CVPR'22) \[[pdf](https://arxiv.org/abs/2203.03282)\]
 
 ![Teaser](img/teaser.jpg)
 
