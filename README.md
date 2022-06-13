@@ -42,11 +42,12 @@ To enable live visualization of the islands of the agreement during training/val
 
 ## Citing
 
-    @article{garau2022interpretable,
-        title={Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks},
-        author={Garau, Nicola and Bisagno, Niccol{\`o} and Sambugaro, Zeno and Conci, Nicola},
-        journal={arXiv preprint arXiv:2203.03282},
-        year={2022}
+    @inproceedings{garau2022interpretable,
+      title={Interpretable part-whole hierarchies and conceptual-semantic relationships in neural networks},
+      author={Garau, Nicola and Bisagno, Niccol{\`o} and Sambugaro, Zeno and Conci, Nicola},
+      booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+      pages={13689--13698},
+      year={2022}
     }
 
 ## Credits
